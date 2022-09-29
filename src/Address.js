@@ -3,7 +3,7 @@ const Adress = () => {
     let adresse="Ben arous Morneg"
     return (
       <>
-        <h2>{adresse}</h2>
+        <h2 className='text'>{adresse}</h2>
       </>
     );
     }

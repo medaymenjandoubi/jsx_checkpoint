@@ -4,8 +4,8 @@ const FullName = () => {
     let lastName="Jandoubi"
     return (
       <>
-        <h2>{firstName}</h2>
-        <h2>{lastName}</h2>
+        <h2 className='text'>{firstName}</h2>
+        <h2 className='text'>{lastName}</h2>
       </>
     );
     }
